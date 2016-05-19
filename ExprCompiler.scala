@@ -1,3 +1,4 @@
+/* (c) 2016-- Viktor Kuncak and Ravichandhran Kandhadai Madhavan */
 import leon.lang._
 import leon.lang.Option
 import leon.collection._
